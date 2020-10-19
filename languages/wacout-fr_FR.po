@@ -1,0 +1,467 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woo Awesome Checkout Template 1.1.1.1\n"
+"POT-Creation-Date: 2020-05-28 09:53+0530\n"
+"PO-Revision-Date: 2020-05-28 10:09+0530\n"
+"Last-Translator: \n"
+"Language-Team: hwxteam\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html;esc_html__;esc_att;esc_attr__;"
+"esc_attr_e;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/custom-column.php:8 includes/meta-box.php:218
+#: includes/meta-box.php:251 includes/meta-box.php:284
+msgid "Title"
+msgstr "Titre"
+
+#: includes/custom-column.php:9
+msgid "Shortcode"
+msgstr "Petit code"
+
+#: includes/custom-column.php:10
+msgid "Author"
+msgstr "Auteur"
+
+#: includes/custom-column.php:11
+msgid "Date"
+msgstr "Date"
+
+#: includes/general-function.php:16 includes/general-function.php:18
+msgid "Awesome Checkout Templates"
+msgstr "Awesome Checkout Templates"
+
+#: includes/general-function.php:17
+msgid "Awesome Checkout Template"
+msgstr "Awesome Checkout Template"
+
+#: includes/general-function.php:19
+msgid "Parent Awesome Checkout Templates"
+msgstr "Parent Awesome Checkout Templates"
+
+#: includes/general-function.php:20
+msgid "All Templates"
+msgstr "Tous Gabarites"
+
+#: includes/general-function.php:21
+msgid "View  Template"
+msgstr "Afficher le modèle"
+
+#: includes/general-function.php:22
+msgid "Create Checkout Template"
+msgstr "Créer Check-out Gabarit"
+
+#: includes/general-function.php:23
+msgid "Create New Template"
+msgstr "Créer Nouveau Gabarit"
+
+#: includes/general-function.php:24
+msgid "Edit Template"
+msgstr "Modifier le modèle"
+
+#: includes/general-function.php:25
+msgid "Update Template"
+msgstr "Modèle de mise à jour"
+
+#: includes/general-function.php:26
+msgid "Search Template"
+msgstr "Modèle de recherche"
+
+#: includes/general-function.php:27
+msgid "Not Found"
+msgstr "Pas trouvé"
+
+#: includes/general-function.php:28
+msgid "Not found in Trash"
+msgstr "Pas trouvé dans la corbeille"
+
+#: includes/general-function.php:34
+msgid "Awesome checkout template for WooCommerce"
+msgstr "Impressionnant modèle de paiement pour WooCommerce"
+
+#: includes/general-function.php:59
+msgid "Awesome Checkout Settings"
+msgstr "Paramètres de paiement impressionnants"
+
+#: includes/general-function.php:59 includes/general-function.php:207
+msgid "Settings"
+msgstr "Réglages"
+
+#: includes/general-function.php:74
+msgid "General"
+msgstr "Général"
+
+#: includes/general-function.php:76 includes/wacout_setting_support.php:5
+msgid "Support"
+msgstr "Soutien"
+
+#: includes/general-function.php:112
+msgid "Woocommerce checkout template Settings"
+msgstr "Paramètres du modèle de paiement Woocommerce"
+
+#: includes/general-function.php:117
+msgid "Save Changes"
+msgstr "Sauvegarder les modifications"
+
+#: includes/general-function.php:145
+msgid "Enable checkout templates"
+msgstr "Activer les modèles de paiement"
+
+#: includes/general-function.php:146
+msgid "Select default checkout template"
+msgstr "Sélectionnez le modèle de paiement par défaut"
+
+#: includes/general-function.php:156
+msgid "Checkout page template setup"
+msgstr "Configuration du modèle de page de paiement"
+
+#: includes/general-function.php:187
+msgid "--Select Page--"
+msgstr "--Sélectionnez la page--"
+
+#: includes/general-function.php:474
+msgid "Related products"
+msgstr "Produits connexes"
+
+#: includes/meta-box.php:12
+msgid "Template Settings"
+msgstr "Réglages Gabarit"
+
+#: includes/meta-box.php:69
+msgid "Layout"
+msgstr "Agencement"
+
+#: includes/meta-box.php:70
+msgid "Custom Sections"
+msgstr "Sections personnalisées"
+
+#: includes/meta-box.php:71
+msgid "Fields & Colors"
+msgstr "Champs et couleurs"
+
+#: includes/meta-box.php:72
+msgid "Products"
+msgstr "Produits"
+
+#: includes/meta-box.php:96
+msgid "Select layout"
+msgstr "Sélectionnez mise en page"
+
+#: includes/meta-box.php:98
+msgid "-- Select layout --"
+msgstr "- Sélectionnez la mise en page -"
+
+#: includes/meta-box.php:99
+msgid "One column layout"
+msgstr "Disposition à une colonne"
+
+#: includes/meta-box.php:100
+msgid "Two column layout"
+msgstr "Disposition à deux colonnes"
+
+#: includes/meta-box.php:215
+msgid "Custom Section A"
+msgstr "Section personnalisée A"
+
+#: includes/meta-box.php:224 includes/meta-box.php:257
+#: includes/meta-box.php:290 includes/meta-box.php:1093
+msgid "Description"
+msgstr "La description"
+
+#: includes/meta-box.php:248
+msgid "Custom Section B"
+msgstr "Section personnalisée B"
+
+#: includes/meta-box.php:281
+msgid "Custom Section C"
+msgstr "Section personnalisée C"
+
+#: includes/meta-box.php:320 includes/meta-box.php:354
+msgid "Sections Heading"
+msgstr "Titre des sections"
+
+#: includes/meta-box.php:321
+msgid "Field labels"
+msgstr "Étiquettes de champ"
+
+#: includes/meta-box.php:322
+msgid "Color options"
+msgstr "Options de couleur"
+
+#: includes/meta-box.php:323
+msgid "Button Settings"
+msgstr "Paramètres des boutons"
+
+#: includes/meta-box.php:358
+msgid "Billing"
+msgstr "Facturation"
+
+#: includes/meta-box.php:364
+msgid "Shipping"
+msgstr "Expédition"
+
+#: includes/meta-box.php:370
+msgid "Order Details"
+msgstr "Détails commande"
+
+#: includes/meta-box.php:376
+msgid "Related Product"
+msgstr "Produit connexe"
+
+#: includes/meta-box.php:383
+msgid "Payment Information"
+msgstr "Renseignements sur le paiement"
+
+#: includes/meta-box.php:498
+msgid "Billing Details Fields"
+msgstr "Champs Détails de facturation"
+
+#: includes/meta-box.php:503 includes/meta-box.php:615
+#: includes/meta-box.php:692
+msgid "Label"
+msgstr "Étiquette"
+
+#: includes/meta-box.php:504 includes/meta-box.php:616
+#: includes/meta-box.php:693
+msgid "Class"
+msgstr "Classe"
+
+#: includes/meta-box.php:505 includes/meta-box.php:617
+#: includes/meta-box.php:694
+msgid "Required?"
+msgstr "Obligatoire?"
+
+#: includes/meta-box.php:510 includes/meta-box.php:622
+msgid "First name"
+msgstr "Prénom"
+
+#: includes/meta-box.php:530 includes/meta-box.php:638
+msgid "Last name"
+msgstr "Nom de famille"
+
+#: includes/meta-box.php:545 includes/meta-box.php:654
+msgid "Company name"
+msgstr "Nom de la compagnie"
+
+#: includes/meta-box.php:560 includes/meta-box.php:669
+msgid "Country / Region"
+msgstr "Pays / Région"
+
+#: includes/meta-box.php:575
+msgid "Phone"
+msgstr "Téléphone"
+
+#: includes/meta-box.php:591
+msgid "Email address"
+msgstr "Adresse électronique"
+
+#: includes/meta-box.php:610
+msgid "Shipping Details Fields"
+msgstr "Champs des détails d'expédition"
+
+#: includes/meta-box.php:687
+msgid "Common Fields"
+msgstr "Champs communs"
+
+#: includes/meta-box.php:699
+msgid "Street address"
+msgstr "Adresse de rue"
+
+#: includes/meta-box.php:714
+msgid "Town / City"
+msgstr "Ville / Ville"
+
+#: includes/meta-box.php:729
+msgid "State"
+msgstr "Etat"
+
+#: includes/meta-box.php:744
+msgid "ZIP"
+msgstr "ZIP"
+
+#: includes/meta-box.php:790
+msgid "One Column Styling"
+msgstr "Style à une colonne"
+
+#: includes/meta-box.php:794
+msgid "Width"
+msgstr "Largeur"
+
+#: includes/meta-box.php:803
+msgid "Section style"
+msgstr "Style de section"
+
+#: includes/meta-box.php:807
+msgid "Section border width"
+msgstr "Largeur de bordure de section"
+
+#: includes/meta-box.php:816
+msgid "Section padding"
+msgstr "Rembourrage de section"
+
+#: includes/meta-box.php:824
+msgid "Heading Style"
+msgstr "Style de titre"
+
+#: includes/meta-box.php:828 includes/meta-box.php:935
+msgid "Background"
+msgstr "Arrière-plan"
+
+#: includes/meta-box.php:834 includes/meta-box.php:947
+msgid "Font Color"
+msgstr "Couleur de la police"
+
+#: includes/meta-box.php:840 includes/meta-box.php:968
+msgid "Font Size"
+msgstr "Taille de police"
+
+#: includes/meta-box.php:848
+msgid "Form Fields Style"
+msgstr "Style des champs de formulaire"
+
+#: includes/meta-box.php:852
+msgid "Label Font Color"
+msgstr "Couleur de police de l'étiquette"
+
+#: includes/meta-box.php:858
+msgid "Label Font Size"
+msgstr "Taille de police d'étiquette"
+
+#: includes/meta-box.php:867
+msgid "Fields border Color"
+msgstr "Couleur de bordure de champ"
+
+#: includes/meta-box.php:873
+msgid "Fields border Size"
+msgstr "Taille de bordure de champ"
+
+#: includes/meta-box.php:910 includes/meta-box.php:1100
+msgid "Button Text"
+msgstr "Texte du bouton"
+
+#: includes/meta-box.php:914
+msgid "Apply Coupon"
+msgstr "Appliquer Coupon"
+
+#: includes/meta-box.php:920
+msgid "Place Order"
+msgstr "Endroit ordre"
+
+#: includes/meta-box.php:926
+msgid "Add to Cart"
+msgstr "Ajouter au chariot"
+
+#: includes/meta-box.php:931
+msgid "Button Style"
+msgstr "Style de bouton"
+
+#: includes/meta-box.php:941
+msgid "Background on Hover"
+msgstr "Arrière-plan sur survol"
+
+#: includes/meta-box.php:953
+msgid "Border Color"
+msgstr "Couleur de la bordure"
+
+#: includes/meta-box.php:959
+msgid "Border Size"
+msgstr "Taille de bordure"
+
+#: includes/meta-box.php:989
+msgid "By default Product"
+msgstr "Par défaut Produit"
+
+#: includes/meta-box.php:990
+msgid "Related Products"
+msgstr "Produits connexes"
+
+#: includes/meta-box.php:1010 includes/meta-box.php:1071
+msgid "Product"
+msgstr "Produit"
+
+#: includes/meta-box.php:1011 includes/meta-box.php:1072
+msgid "Search for a product"
+msgstr "Chercher pour un produit"
+
+#: includes/meta-box.php:1046
+msgid "+ Add New"
+msgstr "+ Ajouter un nouveau"
+
+#: includes/meta-box.php:1121
+msgid "Save Template"
+msgstr "Sauver gabarit"
+
+#: includes/wacout_setting_support.php:13
+msgid "I would like to review this plugin"
+msgstr "Je voudrais revoir ce plugin"
+
+#: includes/wacout_setting_support.php:20
+msgid "I have ideas to improve this plugin"
+msgstr "J'ai des idées pour améliorer ce plugin"
+
+#: includes/wacout_setting_support.php:27
+msgid "I need help with this plugin"
+msgstr "J'ai besoin d'aide avec ce plugin"
+
+#: includes/wacout_setting_support.php:33
+msgid "Enter your email address.."
+msgstr "Entrez votre adresse email.."
+
+#: includes/wacout_setting_support.php:36
+msgid "Leave plugin developers any feedback here.."
+msgstr "Laissez les développeurs de plugins tout commentaire ici .."
+
+#: includes/wacout_setting_support.php:40
+msgid ""
+"I agree that by clicking the send button below my email address and comments "
+"will be send to a ServMask server"
+msgstr ""
+"J'accepte qu'en cliquant sur le bouton Envoyer ci-dessous mon adresse e-mail "
+"et mes commentaires soient envoyés à un serveur ServMask"
+
+#: includes/wacout_setting_support.php:45
+msgid "Send"
+msgstr "Envoyer"
+
+#: includes/wacout_setting_support.php:49
+msgid "Cancel"
+msgstr "Annuler"
+
+#: public/front-checkout.php:448
+msgid "optional"
+msgstr "optionnel"
+
+#: templates/template-1.php:433 templates/template-2.php:384
+msgid "You must be logged in to checkout."
+msgstr "Vous devez être connecté pour passer à la caisse."
+
+#: templates/template-1.php:474 templates/template-2.php:427
+#: templates/template-2.php:481
+msgid "Order details"
+msgstr "Détails de la commande"
+
+#: templates/template-1.php:480 templates/template-2.php:433
+#: templates/template-2.php:487
+msgid "Payment information"
+msgstr "Renseignements sur le paiement"
+
+#~ msgid "Enable changes checkout page"
+#~ msgstr "Activer la page d'extraction des modifications"
+
+#~ msgid "MAIN SECTION DETAILS"
+#~ msgstr "DÉTAILS DE LA SECTION PRINCIPALE"
+
+#~ msgid "BILLING DETAILS FIELDS"
+#~ msgstr "DÉTAILS DE FACTURATION CHAMPS"
+
+#~ msgid "SHIPPING DETAILS FIELDS"
+#~ msgstr "DÉTAILS D'EXPÉDITION CHAMPS"
+
+#~ msgid "COMMON FIELDS"
+#~ msgstr "CHAMPS COMMUNS"
